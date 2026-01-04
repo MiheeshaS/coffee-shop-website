@@ -31,8 +31,8 @@ The project demonstrates practical web development skills, including HTML, CSS, 
 
 ## 👩‍💻 Author
 **Miheesha Samarakoon**  
-- COS10032 – Computing Systems Project  
-- Email: [miheeshasamarakkon2004@gmail.com](mailto:miheeshasamarakkon2004@gmail.com)  
+- COS10032 - Computing Systems Project  
+- Email: [miheeshasamarakkon2004@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=miheeshasamarakoon2004@gmail.com)  
 
 ---
 
